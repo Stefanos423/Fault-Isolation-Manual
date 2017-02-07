@@ -1,0 +1,202 @@
+eng oil consumption high. (Record Data)
+eng oil consumption high, all other oil sys ind norm. (Record Data)
+eng oil consumption high, with other oil sys ind abnorm. (Record Data)
+eng oil qty ind (inop, reads zero, off scale high).
+eng oil qty ind reads off.
+eng oil qty ind (reads high, reads low, fluctuates).
+eng oil press (low, high, fluctuating, in yellow band).
+eng oil press (low, high, fluctuating, in yellow band).  Remains constant with thrust setting change.
+eng oil press (low, high, fluctuating, in yellow band).  Press follows thrust setting change.
+eng oil press ind (inop, reads low with no low press light illum, fluctuates.
+eng oil press light illum with all other ind norm.
+eng oil filter bypass light illum.  Light remained illum with thrust lever reduced.  With eng shutdown, light extin.
+eng oil filter bypass light illum.  Light extin with thrust lever reduced.  Eng (was, was not) shutdown.
+eng oil filter bypass light illum.  Light remained illum with thrust lever reduced.  With eng shutdown, light remained illum.
+eng oil temp (high - above limits, higher than other eng - within limits, lwr than other eng).
+eng oil temp lwr than other eng.  When thrust lever was retarded, oil temp increased to same temp as other eng. (Record Data)
+eng oil temp lwr than other eng.  When thrust lever was retarded, oil temp remained lwr than other eng. (Record Data)
+eng oil temp (high - above limits, higher than other eng - within limits,  Eng (was, was not) shutdown. (Record Data)
+eng oil temp ind inop.
+eng oil temp ind fluctuates.
+eng breather temp high at (T/O, T/O +ACY- climb, climb, cruise, all) thrust setting.
+eng breather temp high, less than 210C at (T/O, T/O +ACY- climb, climb, cruise, all) thrust setting.  All other oil sys ind norm.
+eng breather temp high, less than 210C at (T/O, T/O +ACY- climb, climb, cruise, all) thrust setting.  (High oil consumption, high oil temp, oil press out of limits) was also noted. (Record Data)
+eng breather temp high, 210C or more at (T/O, T/O +ACY- climb, climb, cruise, all) thrus setting.  All other oil sys ind norm.
+eng breather temp high, 210C or more at (T/O, T/O +ACY- climb, climb, cruise, all) thrust setting.  (High oil consumption, high oil temp, oil press out of limits) was also noted. (Record Data)
+eng was shutdown in flt.  Eng (windmilled with continuous oil press of 5 PSI or higher, windmilled with less than 5 PSI oil press for less than 30 min).
+eng was shutdown in flt.  Eng (oil press was less than 5 PSI at speed in excess of windmilling, oil press was less than 5 PSI.  Before eng decel to windmill speed, was operated at or above idle pwr with oil press less than 5 PSI.
+eng was shutdown in flt.  Eng windmilled with less than 5 PSI oil press for more than 30 min.
+Fault not listed, describe in detail.
+
+Remove and clean or replace oil pressure supply tube and/or oil scavenge tube as required.  MM 72-53-00.
+Remove and clean or replace oil scavenge tube as necessary.  MM 72-53-00.  Replace scavenge pump if required.  MM 72-61-21
+Replace engine.  MM 71-00-02
+Replace fuel/oil cooler (MM 79-21-01)
+Remove applicable component and check both component and drive pad seal.  Replace component and/or drive seal as follows:
+        Component           Seal Replacement Ref
+        ---------           --------------------
+ Generator (MM 24-21-01)        MM 72-61-08
+ Fuel Pump (MM 73-11-01)        MM 72-61-11
+ Hydraulic Pump (MM 29-11-05)   MM 72-61-09
+ Starter (MM 80-11-01)          MM 72-61-06
+ Constant Speed Drive           MM 72-61-07
+ (MM 24-11-01)
+Install drain plug.
+Repair No. 3 bearing oil scavenge tube connections as required.  MM 79-21-03 AR.
+Replace Engine.  MM 71-00-02
+Replace No. 1 and 2 bearing breather manifold and/or No. 3 bearing breather manifold as required.  MM 79-21-04 R/I.
+Replace Engine. MM 71-00-02
+Remove N2 manual crank pad and install new o-ring and gasket (if applicable).  MM 72-00-00 MP.
+Replace angle gearbox.  MM 72-61-01 R/I.
+Replace main gearbox.  MM 72-61-02 R/I.
+Replace Engine.  MM 71-00-02
+Refer to Engine Check 1 and/or engine check 2 for corrective action.
+Replace fuel pump.  MM 73-11-01.
+Adjust ground idle speed.  MM 71-00-00 A/T, Test No. 9.
+Replace Evc.  MM 75-31-01.
+The following are infrequent causes of this fault:
+ 1. Faulty main gearbox deaerator          Ref Engine Check 3, 79-01-20 for resolution
+ 2. PT3 manifold leaks                     Ref Visual Check 8, 71-01-10 for resolution
+ 3. No. 1 and 2 bearing compartment leaks  Replace Engine (MM 71-00-02)
+Replace oil pressure regulating valve.  MM 72-61-03.
+The following item may be an infrequent cause of abnormal oil pressure:
+  Main Oil Pump - Replace main oil pump (MM 72-61-17)
+Replace indicator.  MM 79-32-03.
+Replace engine oil pressure transmitter, T422.  MM 79-32-01.
+Replace main oil strainer.  MM 72-61-05.  Replace main oil pressure regulating valve.  MM 72-61-03.  Perform oil system contamination inspection.  MM 72-00-00 I/C.
+Replace indicator.  MM-79-32-03.
+Replace engine oil pressure transmitter, T422.  MM 79-32-01.
+Replace fuel/oil cooler flow control themostat (bypass valve).  MM 79-21-05.
+Clean or replace fuel/oil cooler.  MM 79-21-01.
+Remove obstruction and clean fuel/oil cooler.
+Replace oil temperature bulb T410.  MM 79-34-01.
+Replace oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.
+Replace oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.
+Replace oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.
+Repair electrical wiring between oil temperature bulb electrical connector and oil temperature indicator.  WM 79-34-11.
+Replace oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.
+Repair electrical wiring between oil temperature bulb electrical connector T426 and oil temperature indicator.  WM 79-34-11.
+Replace oil temperature bulb T426.  MM 79-34-01.
+Replace fuel/oil cooler flow control thermostat (bypass valve).  MM 79-21-05.
+Perform oil system contamination inspection.  MM 72-00-00 I/C.
+Replace main oil strainer.  MM 72-62-05.  If fault persists - replace oil filter differential pressure switch.  MM 79-35-01.
+Perform oil system contamination inspection.  MM 72-00-00 I/C.
+Replace main oil strainer.  MM 72-62-05.  If fault persists - replace oil filter differential pressure switch.  MM 79-35-01.
+Replace faulty oil temperature indicator.  MM 79-34-02.
+Repair wiring between indicator plug and eng oil temp and press circuit breaker on P6 panel.  WM 79-34-11.
+Replace oil temperature bulb T410.  MM 79-34-01.
+Repair short in wiring between oil temperature indicator N18, N19, N20, or N21 and oil temperature bulb T410.  WM 79-34-11.
+Replace oil temperature bulb T410.  MM 79-34-01.
+Repair short in wiring between oil temperature indicator N18, N19, N20, or N21 and oil temperature bulb T410.  WM 79-34-11.
+Replace faulty oil temperature indicator.  MM 79-34-02.
+Replace oil temperature bulb T410.  MM 79-34-01.
+Repair airplane wiring between oil temperature blub T410 and oil temperature indicator N18, N19, N20, or N21.  WM 79-34-11.
+Repair engine wiring between splice (SM1) and ground strip (T317) and repair or replace disconnected electrical plug.  WM 79-34-11.
+
+Is there a problem with the oil consumption?
+Does flight engineer's panel read high oil consumption?
+Is there a problem with the oil quantity indicator?
+Is flight engineer's panel oil quantity indicator inoperable, read zero, or off scale high?
+Does flight engineer's panel oil quantity indicator read off?
+Does flight engineer's panel oil quantity indicator read high/low, or fluctuates?
+Is there a problem with the oil pressure?
+Is flight engineer's panel oil pressure abnormal (high, low, or fluctuates)?
+Change thrust setting +ACY- check oil pressure.  Did oil pressure follow thrust change?
+Is flight engineer's panel oil pressure indicator inoperable, reads low with no low pressure light illuminated, or fluctates?
+Is flight engineer's panel oil pressure low pressure light illuminate with other indications normal?
+Is there a problem with the oil filter bypass?
+Is flight engineer's panel oil filter bypass light illuminated?
+Does flight engineer's panel oil filter bypass light remain illuminated with thrust lever reduced?
+Does flight engineer's panel oil filter bypass light remain illuminated with engine shutdown?
+Is there a problem with the oil temp?
+Is flight engineer's panel oil temperature abnormal?
+Is flight engineer's panel oil temperature lower than other engines?
+Retard thrust lever.  Does flight engineer's panel oil temperature remain low?
+Is flight engineer's panel oil temperature abnormally high?
+Is flight engineer's panel oil temperature indicator inoperable?
+Is flight engineer's panel oil temperature indicator fluctuating?
+Is there a problem with the breather temp?
+Is flight engineer's panel breather temperature high?
+Is flight engineer's panel breather temperature less than 210C?
+Are all other oil system indicators normal?
+Did engine shutdown in flight?
+Did engine windmill with continuous oil pressure of 5 PSI or higher?
+Did engine windmill with less than 5 PSI oil pressure for less than 30 minutes?
+Was oil pressure less than 5 PSI at speed in excess of windmilling speed or before engine decelerated to windmill speed?
+Was engine operating at or above idle power with oil pressure less than 5 PSI?
+Did engine windmill with less than 5 PSI oil pressure for more than 30 minutes?
+Is there an engine oil fault not listed?
+Examine turbine exhaust area for evidence of oil loss per Visual Check 1, 79-01-10.  Is oil loss occuring?
+Identify source of oil loss per Visual Check 1, 79-01-10.  Is oil loss due to leakage from rear cover of No. 4 bearing compartment?
+Is oil loss due to leakage from oil pressure supply line or oil scavenge line of No. 4 bearing compartment?
+Is oil loss due to a clogged or loose oil scavenge line or a failed scavenge pump?
+Examine main gearbox drains (MM 71-71-00) for leakage.  Is excessive oil present?
+Identify leaking drain line source (MM 71-71-00) Was source of leakage from the fuel/oil cooler?
+Check that PT3 water drain plug is installed per Visual Check 9, 71-01-10.  Is plug missing?
+Examine external plumbing, main gearbox and angle gearbox for obvious leakage per Visual Check 2, 79-01-10.  Is obvious leakage present?
+Is leakage from oil pressure and/or oil scavenge lines?
+Is leakage from No. 3 bearing oil scavenge tube connections?
+Is leakage from breather lines?
+Is leakage from No. 1 and 2 bearing breather manifold and/or No. 3 bearing breather manifold?
+Is leakage from oil instrumentation lines?
+Is leakage from N2 manual crank on main gearbox?
+Is leakage from angle gearbox?
+Is leakage from main gearbox?
+Perform oil system static leak check per Engine Check 1, 79-01-20 and/or oil system monitoring leak check per Engine Check 2, 79-01-20.  Was source of leakage found?
+Check fuel pump hydraulic stage pressure per Engine Check 2, 71-01-20.  Is pressure within limits?
+Check ground idle speed.  MM 71-00-00 A/T, Test No. 9.  Is ground idle speed low?
+From idle power, advance thrust level slowly to increase N2 RPM by 10+ACU-.  Did N1 increase at least 10+ACU- also?
+Connect line for air pressure to elbow of oil pressure transmitter, T422.  Apply 45 PSI.  Does indicator read 40 to 45 PSI?
+Adjust oil pressure.  MM 71-00-00 A/T, Test No. 7.  Observe oil pressure indicator.  Is oil pressure within limits?
+Exchange oil pressure indicators, N30, N31, N32, or N33.  MM 79-32-03.  Apply 40 to 45 PSI to transmitter.  Does indicator read 40 to 45 PSI?
+Examine magnetic chip detectors and mail oil strainer per Engine Check 18, 71-01-20.  Was contamination abnormal?
+Exchange oil pressure indicators, N30, N31, N32, or N33.  MM 79-32-03.  Connect air pressure source to elbow on oil pressure transmitter, T422.  Apply 45 PSI.  Observe oil pressure indication.  Does indicator read 40-45 PSI?
+Examine fuel/oil cooler inlet and discharge ports.  Is there evidence of obstruction?
+Can obstruction be removed?
+Disconnect connector from oil temperature bulb electrical connector, T410.  Attach decade resistor to pins 1 and 3 of plug disconnected from bulb.  Set decade resistor to the following values:
+   Decade Resistor Ohms      Indicator Reading
+   --------------------      -----------------
+          129                 100  2 deg C
+          147                 140  4 deg C
+          162                 170  4 deg C
+Observe oil temperature indication.  Does indicator reading correspond with listed values?
+Open eng oil temp and press circuit breaker on P6 panel.  Observe oil temperature indication.  Does indicator drive below -40 C?
+Disconnect oil temperature bulb electrical connector, T140.  Observe oil temperature indication.  Does indicator drive above +170- C?
+Replace oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.  Observe oil temperature indication.  Does indicator drive above +170- C?
+Attach decade resistor to pins 1 and 3 of electrical plug disconnected from oil temperature bulb.  Set decade resistor to the following values:
+  Decade Resistor Ohms         Indicator Reading
+  --------------------         -----------------
+          129                   100  2 deg C
+          147                   140  4 deg C
+          162                   170  4 deg C
+Observe oil temperature indication.  Does indicator reading correspond to listed values?
+Replace oil temperature indicator N18, N19, N20, or N21.  Attach decade resistor to pins 1 and 3 of electrical plug disconnected from oil temperature bulb.  Set decade resistor to the following values:
+  Decade Resistor Ohms         Indicator Reading
+  --------------------         -----------------
+          129                   100  2 deg C
+          147                   140  4 deg C
+          162                   170  4 deg C
+Observe oil temperature indication.  Does indicator reading correspond to listed values?
+Measure temperature of fuel/oil cooler adjacent to oil temperature bulb.  Measure resistance between electrical terminals on bulb T426.  Resistance should be as follows:
+  Temperature (C)         Resistance (Ohms)
+  ---------------         -----------------
+       -20                  83.77  0.40
+       -10                  87.04  0.40
+         0                  90.38  0.40
+        10                  93.80  0.40
+        20                  97.31  0.40
+        30                 100.91  0.40
+        40                 104.60  0.40
+        50                 108.39  0.40
+        60                 112.28  0.50
+        70                 116.27  0.50
+Interpolate resistance values for temperatures between those given.  Do temperature and resistance values agree?
+Examine magnetic plugs and mail oil strainer per Engine Check 18, 71-01-20.  Was contamination abnormal?
+Exchange oil temperature indicators N18, N19, N20, or N21.  M 79-34-02.  Observe oil temperature indication and compare with other engines.  Is oil temperature indication within limits?
+Close eng oil temp +ACY- press circuit breaker on P6 panel.  Does oil temperature indicator pointer climb to maximum (high) stop?
+Remove oil temperature indicator N18, N19, N20, or N21.  MM 79-34-02.  Check voltage at sockets 3 and 4 of plug disconnected from indicator.  Is 26V AC present?
+Install oil temperature indicator.  MM 79-34-02.  Remove electrical plug from oil temperature bulb T410.  Observe oil temperature indication.  Does indication go to maximum (high) stop?
+Disconnect electrical plug from oil temperature bulb T410.  Install jumper between pins 1 and 3 of plug disconnected from bulb.  Observe oil temperature indication.  Does indication go to low (-40 C) stop?
+Exchange oil temperature indicators N18, N19, N20, or N21.  MM 79-34-02.  Observe oil temperature indication.  Does indicator pointer fluctuate?
+Exchange oil temperature bulb T410 with an operable unit.  MM 79-34-01.  Observe oil temperature indication.  Does indicator pointer fluctuate?
+Disconnect electrical plug from oil temperature indicator.  Measure resistance between sockets 5 and 6 of plug disconnected from indicator.  Is resistance 100  20 ohms?
